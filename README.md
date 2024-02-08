@@ -27,5 +27,5 @@ D Shell is a simple shell script-based database management system (DBMS) that us
 2. Ensure that you have bash installed.
 3. Navigate to the directory containing the scripts.
 4. Run `chmod +x *` to give excute permission to the files.
-5. Run the main.sh script using the command `./main.sh.`
+5. Run the main.sh script using the command `./main.sh`
 6. Follow the on-screen instructions to interact with the D Shell program.
